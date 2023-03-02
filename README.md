@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kerem_karayagiz" target="blank"><img src="https://img.shields.io/twitter/follow/kerem_karayagiz?logo=twitter&style=for-the-badge" alt="kerem_karayagiz" /></a> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Python**
 
